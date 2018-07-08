@@ -3,6 +3,9 @@
 @ [ChungKing](https://github.com/HuangCongQing/ai-frontend)，若fork或star请注明来源
 
 
+* 谷歌开源了Web前端机器学习库,叫[deeplearn.js](https://pair-code.github.io/deeplearnjs/)
+
+
 ### License
 Copyright (c) [ChungKing](https://github.com/HuangCongQing/ai-frontend). All rights reserved.
 
