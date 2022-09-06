@@ -15,7 +15,7 @@
 
 ## others
 
-### 前端技术实现相关ai功能
+#### 1前端技术实现相关ai功能
 
 * 谷歌开源了Web前端机器学习库,叫[deeplearn.js](https://pair-code.github.io/deeplearnjs/)
 
